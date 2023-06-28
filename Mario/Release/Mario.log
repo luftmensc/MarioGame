@@ -1,0 +1,88 @@
+﻿  Game.cpp
+C:\Users\User\source\repos\Mario\Mario\turtle.h(11): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  Mario.cpp
+C:\Users\User\source\repos\Mario\Mario\Mario.cpp(14,47): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\Mario.cpp(14,32): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+  Main.cpp
+C:\Users\User\source\repos\Mario\Mario\turtle.h(11): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  turtle.cpp
+C:\Users\User\source\repos\Mario\Mario\turtle.h(11): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(15,49): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(15,32): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(25,31): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(105,123): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(105,83): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(111,143): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(111,93): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(117,143): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(117,93): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(123,144): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(123,94): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(142,12): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(164,45): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\Mario\Mario\turtle.cpp(164,25): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+  Kod üretiliyor
+  Previous IPDB not found, fall back to full compilation.
+  All 90 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  Mario.vcxproj -> C:\Users\User\source\repos\Mario\Release\Mario.exe
